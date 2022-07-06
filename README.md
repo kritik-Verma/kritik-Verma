@@ -1,5 +1,11 @@
+<p align="center" style="display: flex;
+    justify-content: center;
+    align-items: center; background-color:black;">
+<img src="https://im.ezgif.com/tmp/ezgif-1-2e146d9d1f.gif" alt="Computer man" style="margin:auto" >
+</p>
+
 <h1 align="center">Hi 👋, I'm Kritik Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left">
   <img
@@ -9,8 +15,8 @@
 </p>
 
 - 🌱 I’m currently learning **devOps**
-
-<!-- - 📝 I regularly write articles on [https://kritikverma.rocks](https://kritikverma.rocks) -->
+- 💻 Self-thought full Stack developer
+- 📝 Peek at my portfolio [https://kritikverma.rocks](https://kritikverma.rocks)
 
 - 💬 Ask me about **Reactjs, Nodejs, MongoDB**
 
@@ -206,7 +212,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vermakritik222&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vermakritik222&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="vermakritik222"
   />
 </p>
@@ -214,7 +220,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=vermakritik222&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=vermakritik222&show_icons=true&locale=en&theme=dracula"
     alt="vermakritik222"
   />
 </p>
@@ -222,7 +228,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vermakritik222&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vermakritik222&theme=dracula"
     alt="vermakritik222"
   />
 </p>
