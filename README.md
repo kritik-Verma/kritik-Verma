@@ -218,10 +218,13 @@
   />
 </p>
 
-<p>
+<!--
+ <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=vermakritik222&theme=dracula"
     alt="vermakritik222"
   />
-</p>
+ </p>
+
+ … -->
