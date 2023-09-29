@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning **devOps**
-- 💻 Self-thought full Stack developer
+- 💻 Self-taught full Stack developer
 - 📝 Peek at my portfolio [https://kritikverma.rocks](https://kritikverma.rocks)
 
 - 💬 Ask me about **Reactjs, Nodejs, MongoDB**
