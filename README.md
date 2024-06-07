@@ -7,12 +7,12 @@
 <h1 align="center">Hi 👋, I'm Kritik Verma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=vermakritik222&label=Profile%20views&color=0e75b6&style=flat"
     alt="vermakritik222"
   />
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **devOps**
 - 💻 Self-taught full Stack developer
