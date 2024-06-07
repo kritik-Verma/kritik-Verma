@@ -16,8 +16,9 @@
 
 - 🌱 I’m currently learning **devOps**
 - 💻 Self-taught full Stack developer
-<!-- - 📝 Peek at my portfolio [https://kritikverma.rocks](https://kritikverma.rocks) --->
 - 💬 Ask me about **Reactjs, Nodejs, MongoDB**
+<!-- - 📝 Peek at my portfolio [https://kritikverma.rocks](https://kritikverma.rocks) --->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
